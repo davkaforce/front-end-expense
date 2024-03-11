@@ -1,4 +1,4 @@
-export const DonurData = [
+const DonurData = [
   {
     productName: "Bill",
     color: <div className=" bg-[#0166FF] rounded-full w-3 h-3"></div>,
@@ -30,6 +30,8 @@ export const DonurData = [
     percent: "8%",
   },
 ];
+
+export default DonurData;
 
 {
   /* <div className="flex justify-between">

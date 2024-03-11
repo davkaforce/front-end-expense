@@ -1,8 +1,8 @@
-export const Type = [
-  { typeName: "All" },
-  { typeName: "Income" },
-  { typeName: "Expense" },
-];
+// export const Type = [
+//   { typeName: "All" },
+//   { typeName: "Income" },
+//   { typeName: "Expense" },
+// ];
 
 export const Category = [
   { cateName: "Food & Drinks" },
@@ -17,3 +17,5 @@ export const Category = [
   { cateName: "Income" },
   { cateName: "Others" },
 ];
+
+export default Category;
